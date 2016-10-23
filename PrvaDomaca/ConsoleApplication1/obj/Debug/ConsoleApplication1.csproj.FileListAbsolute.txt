@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\bin\Debug\IntegerList.dll
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\bin\Debug\IntegerList.pdb
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\bin\Debug\GenericList.dll
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\ConsoleApplication1\bin\Debug\GenericList.pdb

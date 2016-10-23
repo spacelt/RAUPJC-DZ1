@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\IntegerList\bin\Debug\IntegerList.dll
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\IntegerList\bin\Debug\IntegerList.pdb
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\IntegerList\obj\Debug\IntegerList.dll
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\IntegerList\obj\Debug\IntegerList.pdb
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\IntegerList\obj\Debug\IntegerList.csprojResolveAssemblyReference.cache

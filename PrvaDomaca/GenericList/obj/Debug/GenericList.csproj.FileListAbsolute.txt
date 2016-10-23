@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\GenericList\bin\Debug\GenericList.dll
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\GenericList\bin\Debug\GenericList.pdb
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\GenericList\obj\Debug\GenericList.dll
+C:\Users\user\Desktop\faks\vjestine\c#\Domace\RAUPJC-DZ1\PrvaDomaca\GenericList\obj\Debug\GenericList.pdb
